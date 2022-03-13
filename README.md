@@ -9,7 +9,8 @@ Skills are :
 * Excel
 * Power BI 
 * SQL 
+* Tableau 
 
-You can reach me on samuelolajide77@gmail.com
+You can reach me on samuelolajide777@gmail.com
 
 
