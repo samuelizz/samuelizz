@@ -1,5 +1,6 @@
 ##  Welcome 😁
 
-I'm Olajide, a data analyst who loves driving insights from data in order to make data-driven decisons and help businesses. I have also work on some projects using SQL, PowerBI, Tableau and Python and I'm open to any work opportunities or internships.
+I'm Olajide,a detail-oriented and results-driven Data Analyst who possesses great analytical skills, strong attention to detail and eager to learn and solve real life problems using data.
 
+Skills/Interests : Python, SQL, Power BI, Tableau, Machine Learning
 
